@@ -1,0 +1,66 @@
+.photo{
+    height: 210px;
+    width: 160px;
+    position: absolute;
+    left: -11.8%;
+    top: 0;
+}
+ul li{
+    display: inline-block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: 200;
+    
+    padding-right: 50px;
+}
+
+table{
+    position: relative;
+    left: 5%;
+}
+header{
+    padding: 50px;
+    background: #D3D3D3;
+    position: relative;
+    margin-right: 15%;
+    left: 25%;
+}
+main{
+    
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: #FFFFF0;
+    
+}
+section{
+    border-bottom-style: dotted;
+}
+footer{
+    padding: 10px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: #F8F8FF;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(149, 80, 158);
+}
+
+body{
+    background: #D3D3D3;
+}
+
+td{
+    padding-right: 120px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, serif;
+    font-style: italic;
+}
+
+h1,h2,h3{
+    color: #191970;
+}
+
